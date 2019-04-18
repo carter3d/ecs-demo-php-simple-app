@@ -15,8 +15,8 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>Application Security Symposium</h1>
-                <h2>Simple PHP App 18</h2>
+                <h1>Simple PHP App</h1>
+                <h2>Update 1</h2>
                 <p>Your PHP application is now running on a container in Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
